@@ -887,7 +887,7 @@
       <workItem from="1422671273281" duration="3174000" />
       <workItem from="1422679905238" duration="802000" />
       <workItem from="1422682006061" duration="2127000" />
-      <workItem from="1422684660680" duration="4957000" />
+      <workItem from="1422684660680" duration="4975000" />
     </task>
     <task id="LOCAL-00001" summary="from ubuntu-- 1">
       <created>1422674451034</created>
@@ -925,11 +925,17 @@
       <option name="project" value="LOCAL" />
       <updated>1422694439062</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="from windows--2">
+      <created>1422694464153</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1422694464153</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13873000" />
+    <option name="totallyTimeSpent" value="13891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
