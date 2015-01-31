@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16e3e224-0521-4f63-8951-78d04ac9bf4a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/TestClass.class" afterPath="$PROJECT_DIR$/build/classes/main/TestClass.class" />
+    <list default="true" id="16e3e224-0521-4f63-8951-78d04ac9bf4a" name="Default" comment="from ubuntu-- 2">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/TestClass.java" afterPath="$PROJECT_DIR$/src/main/java/TestClass.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FirstGradle.iws" />
@@ -40,21 +40,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56109726" vertical-offset="0" max-vertical-offset="401">
+            <state vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="315">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.4225352" vertical-offset="0" max-vertical-offset="426">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -69,6 +69,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="tasksExpandState">
@@ -722,7 +725,7 @@
       <workItem from="1422516183160" duration="1150000" />
       <workItem from="1422520106658" duration="156000" />
       <workItem from="1422671273281" duration="3174000" />
-      <workItem from="1422679905238" duration="455000" />
+      <workItem from="1422679905238" duration="802000" />
     </task>
     <task id="LOCAL-00001" summary="from ubuntu-- 1">
       <created>1422674451034</created>
@@ -736,11 +739,17 @@
       <option name="project" value="LOCAL" />
       <updated>1422680311101</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="from ubuntu-- 1">
+      <created>1422680374285</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1422680374285</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6442000" />
+    <option name="totallyTimeSpent" value="6789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="-4" width="1307" height="773" extended-state="6" />
@@ -792,7 +801,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="from ubuntu-- 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="from ubuntu-- 1" />
+    <MESSAGE value="from ubuntu-- 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="from ubuntu-- 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -951,18 +961,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestClass.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56109726" vertical-offset="0" max-vertical-offset="401">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.4225352" vertical-offset="0" max-vertical-offset="426">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding />
         </state>
       </provider>

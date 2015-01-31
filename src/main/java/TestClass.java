@@ -9,5 +9,11 @@ public class TestClass {
             testVar++;
         }
         System.out.println(testVar);
+        boolean doesItWork=false;
+        if(testVar==6){
+            doesItWork = true;
+        }
+        if(doesItWork) System.out.println("git integration successfull!!");
+
     }
 }
