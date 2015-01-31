@@ -16,8 +16,27 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.11'
     compile("org.springframework:spring-context:4.1.4.RELEASE")
     testCompile("org.springframework:spring-test:4.1.4.RELEASE")
+    compile 'org.slf4j:slf4j-api:1.7.7'
+    compile 'org.slf4j:slf4j-simple:1.7.7'
+
     compile 'mysql:mysql-connector-java:5.1.33'
     compile 'javax.servlet:javax.servlet-api:3.0.1'
     runtime 'javax.servlet:jstl:1.2'
 
+}
+task deploy() {
+    doLast
+            {
+                String destination ="D:\\DevSoft\\Xampp\\tomcat\\webapps";
+                String source = "build\\libs"
+                copy
+                        {
+                            from source;
+                            into destination;
+                            include "*.war"
+                        }
+
+                println 'war deployed into tomcat'
+
+            }
 }
